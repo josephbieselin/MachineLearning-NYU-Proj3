@@ -1,0 +1,26 @@
+https://cran.r-project.org/web/packages/glmnet/glmnet.pdf
+glmnet documentation package from cran
+
+https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/
+Explanation of LASSO, Ridge Regression for Python
+
+http://stats.stackexchange.com/questions/72251/an-example-lasso-regression-using-glmnet-for-binary-outcome
+Help with using LASSO
+
+http://stackoverflow.com/questions/18130338/plotting-an-roc-curve-in-glmnet
+Help with plotting an ROC curve for LASSO regression
+
+http://nbviewer.jupyter.org/gist/nickmachairas/c1d11a7749a127029bc43ca04c829264
+Nick Machairas Jupyter notebook for obtaining the "train.csv" file and data preparation based on Raman Kannan's instruction.
+
+http://trevorstephens.com/kaggle-titanic-tutorial/r-part-4-feature-engineering/
+Trevor Stephens guide to Feature Engineering for Titanic dataset
+
+http://www.slideshare.net/rk2153/evaluating-classifierperformance-mlcs6923
+Used for improving visuals on performance AUC / ROC-curve plot
+
+https://www.quora.com/How-and-why-does-ridge-regression-help-with-overfitting
+Explanation of ridge regression results
+
+https://www.r-bloggers.com/kickin-it-with-elastic-net-regression/
+Blog post stating that "Elastic net regression is awesome because it can perform at worst as good as the lasso or ridge" which I want to test for myself
